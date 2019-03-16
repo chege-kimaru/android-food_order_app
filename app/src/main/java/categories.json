@@ -1,0 +1,460 @@
+{
+  "categories": {
+    "01": {
+      "name": "chicken",
+      "image": "https://www.lloydconstellations.com/images/k_images/food8.jpeg"
+    },
+    "02": {
+      "name": "Beef",
+      "image": "https://www.lloydconstellations.com/images/k_images/food2.jpg"
+    },
+    "03": {
+      "name": "Mutton",
+      "image": "https://www.lloydconstellations.com/images/k_images/food10.jpg"
+    },
+    "04": {
+      "name": "Fish",
+      "image": "https://www.lloydconstellations.com/images/k_images/food4.jpg"
+    },
+    "05": {
+      "name": "Pizza",
+      "image": "https://www.lloydconstellations.com/images/k_images/food5.jpg"
+    },
+    "06": {
+      "name": "Humburger",
+      "image": "https://www.lloydconstellations.com/images/k_images/food6.jpg"
+    },
+    "07": {
+      "name": "Hot Dog",
+      "image": "https://www.lloydconstellations.com/images/k_images/food7.jpg"
+    },
+    "08": {
+      "name": "Chapati",
+      "image": "https://www.lloydconstellations.com/images/k_images/food8.jpeg"
+    },
+    "09": {
+      "name": "Mandazi",
+      "image": "https://www.lloydconstellations.com/images/k_images/food4.jpg"
+    },
+    "10": {
+      "name": "Ugali",
+      "image": "https://www.lloydconstellations.com/images/k_images/food10.jpg"
+    },
+    "11": {
+      "name": "Smokie",
+      "image": "https://www.lloydconstellations.com/images/k_images/food7.jpg"
+    },
+    "12": {
+      "name": "Supper",
+      "image": "https://www.lloydconstellations.com/images/k_images/food7.jpg"
+    }
+  },
+  "users": {
+    "0727683173": {
+      "name": "Kevin",
+      "password": "123456"
+    }
+  },
+  "foods": {
+    "01": {
+      "Name": "GINGER PAO",
+      "Image": "http://medifoods.my/images/menu/p1_ginger_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "02": {
+      "Name": "COCONUT PAO",
+      "Image": "http://medifoods.my/images/menu/p2_coconut_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "03": {
+      "Name": "RED BEAN PAO",
+      "Image": "http://medifoods.my/images/menu/p3_red_bean_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "04": {
+      "Name": "CHAR SIEW PAO",
+      "Image": "http://medifoods.my/images/menu/p4_char_siew_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "05": {
+      "Name": "CHAI PAO",
+      "Image": "http://medifoods.my/images/menu/p5_chai_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "01"
+    },
+    "06": {
+      "Name": "ONDE ONDE",
+      "Image": "http://medifoods.my/images/menu/d1_onde_onde.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "07": {
+      "Name": "CHAI KUIH",
+      "Image": "http://medifoods.my/images/menu/d2_chai_kuih.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "08": {
+      "Name": "YAM CAKE",
+      "Image": "http://medifoods.my/images/menu/d5_yam_cake.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "09": {
+      "Name": "RADISH CAKE",
+      "Image": "http://medifoods.my/images/menu/d6_radish_cake.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "10": {
+      "Name": "PUMPKIN CAKE",
+      "Image": "http://medifoods.my/images/menu/d7_pumpkin_cake.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "02"
+    },
+    "11": {
+      "Name": "ANG KU",
+      "Image": "http://medifoods.my/images/menu/d8_d9_angku.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "12": {
+      "Name": "FATT KO",
+      "Image": "http://medifoods.my/images/menu/d10_fatt_ko.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "13": {
+      "Name": "3 LAYER CAKE",
+      "Image": "http://medifoods.my/images/menu/d11_three_layer_cake.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "14": {
+      "Name": "THAI STYLE SALAD",
+      "Image": "http://medifoods.my/images/menu/a1_thai_style_salad.jpg",
+      "Description": "Bamboo fungus in spicy thai style sauce",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "15": {
+      "Name": "BLACK SESAME BALL",
+      "Image": "http://medifoods.my/images/menu/a2_sesame_ball_peanut.jpg",
+      "Description": "Glutinous rice ball with black sesame paste filling coated with minced peanuts",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "03"
+    },
+    "16": {
+      "Name": "SPINACH POTATO BALL",
+      "Image": "http://medifoods.my/images/menu/a3_potato_ball.jpg",
+      "Description": "Golden fried spinach potato ball",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "17": {
+      "Name": "DOUBLE DELIGHT",
+      "Image": "http://medifoods.my/images/menu/a4_caramelised_sunflower_seeds.jpg",
+      "Description": "Apple in yoghurt sauce with walnut & sunflower seeds coated with cane sugar and sesame seeds",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "18": {
+      "Name": "CHOCO DELIGHT",
+      "Image": "https://images.wallpaperscraft.com/image/sakura_flowers_bloom_125940_1080x1920.jpg",
+      "Description": "Apple in yoghurt sauce with walnut & sunflower seeds coated with cane sugar and sesame seeds",
+      "Price": "800",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "19": {
+      "Name": "GINGER PAO",
+      "Image": "http://medifoods.my/images/menu/p1_ginger_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "20": {
+      "Name": "COCONUT PAO",
+      "Image": "http://medifoods.my/images/menu/p2_coconut_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "04"
+    },
+    "21": {
+      "Name": "RED BEAN PAO",
+      "Image": "http://medifoods.my/images/menu/p3_red_bean_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "05"
+    },
+    "22": {
+      "Name": "CHAR SIEW PAO",
+      "Image": "http://medifoods.my/images/menu/p4_char_siew_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "05"
+    },
+    "23": {
+      "Name": "CHAI PAO",
+      "Image": "http://medifoods.my/images/menu/p5_chai_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "05"
+    },
+    "24": {
+      "Name": "ONDE ONDE",
+      "Image": "http://medifoods.my/images/menu/d1_onde_onde.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "05"
+    },
+    "25": {
+      "Name": "CHAI KUIH",
+      "Image": "http://medifoods.my/images/menu/d2_chai_kuih.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "05"
+    },
+    "26": {
+      "Name": "YAM CAKE",
+      "Image": "http://medifoods.my/images/menu/d5_yam_cake.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "06"
+    },
+    "27": {
+      "Name": "RADISH CAKE",
+      "Image": "http://medifoods.my/images/menu/d6_radish_cake.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "06"
+    },
+    "28": {
+      "Name": "PUMPKIN CAKE",
+      "Image": "http://medifoods.my/images/menu/d7_pumpkin_cake.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "06"
+    },
+    "29": {
+      "Name": "ANG KU",
+      "Image": "http://medifoods.my/images/menu/d8_d9_angku.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "06"
+    },
+    "30": {
+      "Name": "FATT KO",
+      "Image": "http://medifoods.my/images/menu/d10_fatt_ko.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "06"
+    },
+    "31": {
+      "Name": "3 LAYER CAKE",
+      "Image": "http://medifoods.my/images/menu/d11_three_layer_cake.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "07"
+    },
+    "32": {
+      "Name": "THAI STYLE SALAD",
+      "Image": "http://medifoods.my/images/menu/a1_thai_style_salad.jpg",
+      "Description": "Bamboo fungus in spicy thai style sauce",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "07"
+    },
+    "33": {
+      "Name": "BLACK SESAME BALL",
+      "Image": "http://medifoods.my/images/menu/a2_sesame_ball_peanut.jpg",
+      "Description": "Glutinous rice ball with black sesame paste filling coated with minced peanuts",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "07"
+    },
+    "34": {
+      "Name": "SPINACH POTATO BALL",
+      "Image": "http://medifoods.my/images/menu/a3_potato_ball.jpg",
+      "Description": "Golden fried spinach potato ball",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "07"
+    },
+    "35": {
+      "Name": "DOUBLE DELIGHT",
+      "Image": "http://medifoods.my/images/menu/a4_caramelised_sunflower_seeds.jpg",
+      "Description": "Apple in yoghurt sauce with walnut & sunflower seeds coated with cane sugar and sesame seeds",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "07"
+    },
+    "36": {
+      "Name": "CHOCO DELIGHT",
+      "Image": "https://images.wallpaperscraft.com/image/sakura_flowers_bloom_125940_1080x1920.jpg",
+      "Description": "Apple in yoghurt sauce with walnut & sunflower seeds coated with cane sugar and sesame seeds",
+      "Price": "800",
+      "Discount": "0",
+      "MenuId": "08"
+    },
+    "37": {
+      "Name": "GINGER PAO",
+      "Image": "http://medifoods.my/images/menu/p1_ginger_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "08"
+    },
+    "38": {
+      "Name": "COCONUT PAO",
+      "Image": "http://medifoods.my/images/menu/p2_coconut_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "08"
+    },
+    "39": {
+      "Name": "RED BEAN PAO",
+      "Image": "http://medifoods.my/images/menu/p3_red_bean_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "08"
+    },
+    "40": {
+      "Name": "CHAR SIEW PAO",
+      "Image": "http://medifoods.my/images/menu/p4_char_siew_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "08"
+    },
+    "41": {
+      "Name": "CHAI PAO",
+      "Image": "http://medifoods.my/images/menu/p5_chai_pao.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "09"
+    },
+    "42": {
+      "Name": "ONDE ONDE",
+      "Image": "http://medifoods.my/images/menu/d1_onde_onde.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "09"
+    },
+    "43": {
+      "Name": "CHAI KUIH",
+      "Image": "http://medifoods.my/images/menu/d2_chai_kuih.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "09"
+    },
+    "44": {
+      "Name": "YAM CAKE",
+      "Image": "http://medifoods.my/images/menu/d5_yam_cake.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "09"
+    },
+    "45": {
+      "Name": "RADISH CAKE",
+      "Image": "http://medifoods.my/images/menu/d6_radish_cake.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "09"
+    },
+    "46": {
+      "Name": "PUMPKIN CAKE",
+      "Image": "http://medifoods.my/images/menu/d7_pumpkin_cake.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "47": {
+      "Name": "ANG KU",
+      "Image": "http://medifoods.my/images/menu/d8_d9_angku.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "48": {
+      "Name": "FATT KO",
+      "Image": "http://medifoods.my/images/menu/d10_fatt_ko.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "49": {
+      "Name": "3 LAYER CAKE",
+      "Image": "http://medifoods.my/images/menu/d11_three_layer_cake.jpg",
+      "Description": "",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "50": {
+      "Name": "THAI STYLE SALAD",
+      "Image": "http://medifoods.my/images/menu/a1_thai_style_salad.jpg",
+      "Description": "Bamboo fungus in spicy thai style sauce",
+      "Price": "1000",
+      "Discount": "0",
+      "MenuId": "10"
+    }
+  }
+}

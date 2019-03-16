@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="ExpandedAppBar" parent="@android:style/TextAppearance.Material.Title">
+
+    </style>
+</resources>
